@@ -29,6 +29,10 @@ public class cadastro {
 
 	// converção de todos os atributos em String.
 	public String toString() {
-		return "Nome: " + nome + ", " + "nota: " + nota;
+		return "Nome: "
+	           + nome
+	           + ", "
+	           + "nota: "
+	           + nota;
 	}
 }
